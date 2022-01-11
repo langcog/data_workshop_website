@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Creating Datasets for Advancing AI, Education, and Developmental Science
 
 You can use the [editor on GitHub](https://github.com/langcog/data_workshop_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
