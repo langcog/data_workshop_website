@@ -33,12 +33,12 @@ Times are listed in PST.
 
 # Funders
 
-![Jacobs Foundation](assets/images/)
+![Jacobs Foundation](assets/images/JacobsFoundation.png)
 
-![IES](assets/images/)
+![Institute for Educational Sciences](assets/images/IES.png)
 
-![Schmidt](assets/images/)
+![Schmidt Family Foundation](assets/images/Schmidt.png)
 
-![NSF](assets/images/)
+![National Science Foundation](assets/images/NSF.jpg)
 
-![Wellcome](assets/images/)
+![Wellcome Trust](assets/images/wellcometrust)
