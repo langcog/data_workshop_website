@@ -1,4 +1,4 @@
-<!-- ## Creating Datasets for Advancing AI, Education, and Developmental Science -->
+## Creating Datasets for Advancing AI, Education, and Developmental Science
 
 ### Virtual Workshop June 23-24, 2022 
 
