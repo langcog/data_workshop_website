@@ -4,7 +4,7 @@
 
 The goal of this workshop is to bring together researchers and funders to share and discuss exemplary datasets at the forefront of AI, education, and developmental science.
 
-Free registration [here](googleform). 
+Free registration [here](https://docs.google.com/forms). 
 
 # Agenda
 
@@ -41,4 +41,4 @@ Times are listed in PST.
 
 ![National Science Foundation](assets/images/NSF.jpg)
 
-![Wellcome Trust](assets/images/wellcometrust)
+![Wellcome Trust](assets/images/wellcometrust.png)
